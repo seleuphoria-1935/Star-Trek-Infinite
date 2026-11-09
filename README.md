@@ -202,3 +202,6 @@ This repository serves as the official landing page for Star Trek: Infinite. The
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Star Trek: Infinite today!**
+
+---
+**Last updated:** 2026-11-09 10:58:33 UTC
