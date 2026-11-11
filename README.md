@@ -204,4 +204,4 @@ This repository serves as the official landing page for Star Trek: Infinite. The
 **Get the most recent version of Star Trek: Infinite today!**
 
 ---
-**Last updated:** 2026-11-10 20:17:37 UTC
+**Last updated:** 2026-11-11 01:03:49 UTC
